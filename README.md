@@ -1,4 +1,4 @@
-# Manchester City Club
+# Manchester City
 React developed sample web application
 
 The code uses:
